@@ -19,7 +19,6 @@ Built in **Python (TensorFlow/Keras)** as part of my personal data science portf
   - `07_gradcam_visualization.py`  
 - **posts/** — Markdown post for GitHub Pages (portfolio write-up)  
   - `2025-03-07-cnn-Toy-Robot.md`  
-- **models/** — Saved `.h5` model files 
 - **README.md** — Project overview 
 
 ---
