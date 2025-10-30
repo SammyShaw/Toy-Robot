@@ -94,7 +94,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ## Visuals
 
-![Toy Robot sample collage](images/collage3.png)
+![Toy Robot sample collage](images/toy_collage_with_padding.png)
 *Example training images from five toy classes.*
 
 ---
