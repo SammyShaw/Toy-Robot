@@ -28,8 +28,6 @@ Built in **Python (TensorFlow/Keras)** as part of my personal data science portf
 Inspired by my four-year-old son’s scattered toy collection, this project explores how a robot might **recognize and sort toys into bins** using computer vision.  
 Using a **self-collected dataset of five toy categories** — *Bananagrams, Brios, Cars, Duplos, and Magnatiles* — I trained several CNN architectures from scratch, then implemented **transfer learning** with **MobileNetV2**, achieving perfect test accuracy.
 
-“If successful and scaled, no parent will ever step on a Lego again.”
-
 ---
 
 ## Methods & Model Evolution
