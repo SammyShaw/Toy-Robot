@@ -1,13 +1,13 @@
 # Toy Robot: Toy Classification Using CNN
 
-A deep learning project using **Convolutional Neural Networks (CNNs)** and **transfer learning (MobileNetV2)** to classify children's toys from a custom, self-collected dataset.  
+A deep learning project using **Convolutional Neural Networks (CNNs)** and **transfer learning (MobileNetV2)** to classify children's toys from a self-collected dataset using my iphone camera.  
 Built in **Python (TensorFlow/Keras)** as part of my personal data science portfolio.
 
 ---
 
 ## Repository Contents
 
-- **data/** — Sample dataset (train/validate/test image folders)  
+- **data/** — Sample dataset
 - **images/** — Supporting images for markdown documentation  
 - **scripts/** — Python scripts for model training, testing, and visualization  
   - `01_data_pipeline.py`  
