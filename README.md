@@ -1,11 +1,11 @@
-# Toy Robot: Toy Classification Using CNN
+## Toy Robot: Toy Classification Using CNN
 
 A deep learning project using **Convolutional Neural Networks (CNNs)** and **transfer learning (MobileNetV2)** to classify children's toys from a self-collected dataset using my iphone camera.  
 Built in **Python (TensorFlow/Keras)** as part of my personal data science portfolio.
 
 ---
 
-## Repository Contents
+### Repository Contents
 
 - **data/** — Sample dataset
 - **images/** — Supporting images for markdown documentation  
@@ -30,7 +30,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Methods & Model Evolution
+### Methods & Model Evolution
 
 | **Stage** | **Technique / Change** | **Test Accuracy** |
 |------------|------------------------|------------------:|
@@ -53,7 +53,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Key Concepts
+### Key Concepts
 
 - **Overfitting mitigation:** Dropout, image augmentation, and learning rate reduction  
 - **Architecture tuning:** Iterative experiments with layers, filters, and kernels  
@@ -62,7 +62,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Results
+### Results
 
 - **Baseline CNN:** Suffered overfitting despite decent training accuracy.  
 - **Dropout + Augmentation:** Reduced overfitting but limited improvement.  
@@ -71,7 +71,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Future Work
+### Future Work
 
 - Expand dataset with additional toy types and lighting conditions  
 - Fine-tune MobileNetV2 layers for explainability and robustness  
@@ -80,7 +80,7 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 - **Python**
 - **TensorFlow / Keras**
@@ -90,14 +90,14 @@ Using a **self-collected dataset of five toy categories** — *Bananagrams, Brio
 
 ---
 
-## Visuals
+### Visuals
 
 ![Toy Robot sample collage](images/toy_collage_with_padding.png)
 *Example training images from five toy classes.*
 
 ---
 
-## About the Author
+### About the Author
 
 **Samuel Shaw, PhD**  
 Data Scientist | Sociologist | Researcher  
